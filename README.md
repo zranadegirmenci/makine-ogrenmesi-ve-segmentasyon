@@ -6,12 +6,12 @@ Bu proje; denetimsiz makine öğrenmesi (unsupervised learning) yöntemleri kull
 
 ---
 
-## 🎯 Projenin Amacı ve İş Problemi
+## Projenin Amacı ve İş Problemi
 Pazarlama bütçelerinin tüm müşteri tabanına tek tip kampanya ile dağıtılması yüksek maliyet ve düşük dönüşüm oranı (conversion rate) üretir. Bu çalışmada amaç; müşterileri demografik ve finansal davranışlarına göre homojen alt gruplara ayırarak şirket kârlılığını maksimize edecek hedef odaklı kampanya ve kaynak tahsis stratejileri oluşturmaktır.
 
 ---
 
-## 🛠️ Kullanılan Teknolojiler ve Kütüphaneler
+## Kullanılan Teknolojiler ve Kütüphaneler
 * **Programlama Dili:** Python
 * **Veri İşleme ve Agregasyon:** `pandas`, `numpy`
 * **Görselleştirme:** `matplotlib`, `seaborn`
@@ -19,7 +19,7 @@ Pazarlama bütçelerinin tüm müşteri tabanına tek tip kampanya ile dağıtı
 
 ---
 
-## 🔬 Metodoloji ve Analitik Adımlar
+## Metodoloji ve Analitik Adımlar
 
 ### 1. Keşifçi Veri Analizi ve Dağılım İncelemesi
 * Müşterilerin yıllık gelirleri (`Yillik_Gelir_k$`) ve harcama skorları (`Harcama_Skoru_1_100`) üzerinden betimsel istatistikler ve sınır değerler analiz edildi.
@@ -41,7 +41,7 @@ Pazarlama bütçelerinin tüm müşteri tabanına tek tip kampanya ile dağıtı
 
 ---
 
-## 📊 Segment Profili ve Stratejik Aksiyon Planı
+## Segment Profili ve Stratejik Aksiyon Planı
 
 | Segment Adı | Profil Tanımı | Önerilen Ticari Aksiyon |
 | :--- | :--- | :--- |
@@ -53,7 +53,7 @@ Pazarlama bütçelerinin tüm müşteri tabanına tek tip kampanya ile dağıtı
 
 ---
 
-## 🚀 Kurulum ve Çalıştırma
+## Kurulum ve Çalıştırma
 
 Projeyi yerel ortamınızda veya Google Colab üzerinde çalıştırmak için:
 
