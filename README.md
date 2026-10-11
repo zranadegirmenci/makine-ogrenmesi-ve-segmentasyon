@@ -59,7 +59,7 @@ Projeyi yerel ortamınızda veya Google Colab üzerinde çalıştırmak için:
 
 ```bash
 # Depoyu klonlayın
-git clone [https://github.com/](https://github.com/)<kullanici-adiniz>/makine-ogrenmesi-ve-segmentasyon.git
+git clone [https://github.com/](https://github.com/)zranadegirmenci/makine-ogrenmesi-ve-segmentasyon.git
 
 # Gerekli kütüphaneleri yükleyin
 pip install numpy pandas matplotlib seaborn scikit-learn
